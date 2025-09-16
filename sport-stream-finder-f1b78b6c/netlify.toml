@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "sport-stream-finder-f1b78b6c"
+  publish = "dist"
 
 [functions]
   directory = "src/api/funtions"
